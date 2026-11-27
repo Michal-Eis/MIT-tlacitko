@@ -1,11 +1,9 @@
-# 110-tlacitko
+# Tlačítko přepíná svit LED
 
 ## Účel/Zadání/Funkce
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
-    * píst
-    * mikroprocesor
+* tlačítko reaguje na hranu
+* když tlačítko pustím. Přepne se svit LEDky
 
 
 ## Schéma zapojení
@@ -16,10 +14,6 @@
 
 1. ono se to
 2. samo se to
-
-## ToDo
-
-* ještě chybí tamto
 
 ## Zhodnocení
 
